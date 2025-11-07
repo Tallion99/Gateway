@@ -1,0 +1,215 @@
+<h2>Tallion Technologies - Gateway</h2>
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 238.2px; background-color: rgba(47, 162, 46, 0.4);"><strong>Financial</strong></td>
+<td style="width: 257.9px; background-color: rgba(47, 162, 46, 0.4);"><strong>News</strong></td>
+<td style="width: 176.233px; background-color: rgba(47, 162, 46, 0.4);"><strong>popular inks</strong></td>
+<td style="width: 215.667px; background-color: rgba(47, 162, 46, 0.4);"><strong>TV</strong></td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://cronometer.com/#diary">CronoMeter</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://maps.app.goo.gl/Ck8FypmjuL4sinsK7">Baraboob Maps</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://mail.zoho.com/biz/index.do">ZoHo Mail</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.peacocktv.com/watch/home">Peacock ff</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://www.alliantcreditunion.com/OnlineBanking/Login.aspx">Alliant Credit Union</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://goo.gl/maps/jcTnp1RUQWm2pZeL9">SupTown Maps</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://trakt.tv/calendars/my/shows-movies">WatchList</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.hulu.com/hub/home">Hulu ff</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://onlinebanking.usbank.com/digital/servicing/account-dashboard">US Bank</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://maps.app.goo.gl/TKvuvDJS5Cx9QGoq8">Google Traffic</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.fox.com/live/">Fox br</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://www.americanexpress.com/en-us/account/login?inav=iNavLnkLog">American Express</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="http://cnn.com/">CNN</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.cbs.com/live-tv/stream/tveverywhere/">CBS br</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://logon.vanguard.com/logon?site=pi">Vanguard</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="http://www.nbcnews.com/">MSNBC</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://abc.com/my-profile/">ABC br</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;</td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.washingtonpost.com/">Washington Post</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.gasbuddy.com/gasprices/wisconsin/sauk/3230">Baraboo Gas Prices</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://tv.youtube.com/welcome/">Youtube TV</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://townofdeltonwi.gov/general-services/">Town of Delton</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.theguardian.com/us">Guardian</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.gasbuddy.com/gasprices/wisconsin/eau-claire">eau-claire Gas Prices</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.paramountplus.com/">Paramount edge</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.myforemostaccount.com/fmcss/login">House Insurance</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.newsweek.com/">News Week</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/@NBCNews/videos">NBC YT</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;</td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/@ABCNews/videos">ABC YT</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="http://www.marketwatch.com/">Market Watch</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px; background-color: #3c3c3c;">&nbsp;<span style="color: #ffffff;"><strong>Downloads</strong></span></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/watch?v=iEpJwprxDdk">Bloomberg Finance</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.cnbc.com/">CNBC</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.reddit.com/">Reddit</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.nzbgrabit.org/nzb.php?category=2">NZBGrabit</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/watch?v=wt6SIE7BXS8">Fox Weather</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.tradingview.com/symbols/SPX/">S&amp;P 500</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://consequence.net/tag/alternative-rock/">Rock News</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.nzbgeek.info/geekseek.php?c=5000">NZBGreek TV</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/watch?v=Ap-UM1O9RBU">France News</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="http://finance.yahoo.com/portfolio/pf_1/view/v2">Yahoo Personal Finance</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.nzbgeek.info/geekseek.php?endorsed=4">NZBGreek Favs</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/playlist?list=PLyp0XT1kx9OqpYPiqqy64FScWikgcGorZ">Modern Rock Playlist</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://investor.vanguard.com/investment-products/mutual-funds/profile/vmfxx">VMXFF</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/@JimmyKimmelLive/videos">Jimmy Kimmel</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx">VUSXX</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=VDADX">VDADX</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px; background-color: #3c3c3c;">&nbsp;<span style="color: #ffffff;"><strong>POE</strong></span></td>
+<td style="width: 215.667px; background-color: #3c3c3c;">&nbsp;<span style="color: #ffffff;"><strong>Stores</strong></span></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=VTSAX">VTSAX</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.pathofexile.com/trade/search/Crucible">Trade</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.festfoods.com/weekly-ad">Festival (wednesday)</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=VBIAX">VBIAX</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;<a href="https://poe.ninja/">Currency Prices</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://bwpfreshexpressmarket.com/">Viking (mondays)</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=VTRHX">VTRHX</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;<a href="https://discord.com/channels/@me">Discord</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://maurersmarket.com/weekly-ad">Maurers</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=FMIHX">FMIHX</a></td>
+<td style="width: 257.9px; background-color: #3c3c3c;">&nbsp;<span style="color: #ffffff;"><strong>Weather</strong></span></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://www.filterblade.xyz/">FilterBlade</a></td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.kwiktrip.com/savings/">Kwik Trip</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=OAKBX">OAKBX</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.wkow.com/weather/?weather_zip=53913">WKOW 27 Weather</a></td>
+<td style="width: 176.233px;">&nbsp;<a href="https://github.com/SnosMe/awakened-poe-trade">Awakened POE Trade</a></td>
+<td style="width: 215.667px;"><a href="https://vikingvillagefoods.com/weekly-ad/">&nbsp;Viking Reedsburg</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=VGIAX">VGIAX</a></td>
+<td style="width: 257.9px;">&nbsp; <a href="https://www.kare11.com/radar">Kare11 Radar</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=LEXCX">LEXCX</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.wmtv15news.com/weather/">WNTV 15 Weather</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;<a href="https://www.youtube.com/user/Tallion99/videos">YouTube Videos</a></td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=THOPX">THOPX</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=COP%20stock">COP</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.weather.gov/mkx/weatherstory">NOAA Weather Story WI</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="https://www.google.com/search?q=exe%20stock">EXE</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.weather.gov/mpx/weatherstory">NOAA Weather Story MN</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;<a href="http://www.treasurydirect.gov/">I Series Bonds</a></td>
+<td style="width: 257.9px;">&nbsp;<a href="https://www.weather.gov/dlh/weatherstory">NOAA Weather Story Duluth</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;">&nbsp;</td>
+<td style="width: 257.9px;">&nbsp;<a href="http://www.weather.com/weather/tenday/l/53913:4:US">Weather - 10 day</a></td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 257.9px; background-color: #3c3c3c;">&nbsp;<span style="color: #ffffff;"><strong>Sports</strong></span></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px; background-color: #3c3c3c;">&nbsp;<span style="color: #ffffff;"><strong>Travel</strong></span></td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://gophersports.com/sports/mens-ice-hockey">Gopher Hockey</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;<a href="https://globe.adsbexchange.com/">Airplane Radar Tracking</a></td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://gophersports.com/sports/football/schedule">Gopher Football</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;<a href="https://flightaware.com/">Flight Aware</a></td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://www.vikings.com/schedule/">Vikings</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://uwbadgers.com/sports/football/schedule">Badger Football</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 238.2px;"><a href="https://www.packers.com/schedule/">Packers</a></td>
+<td style="width: 257.9px;">&nbsp;</td>
+<td style="width: 176.233px;">&nbsp;</td>
+<td style="width: 215.667px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
